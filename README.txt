@@ -1,5 +1,3 @@
-# InputRecorder
-
 Description
 A discreet and reliable keylogging solution compatible with both Windows and Linux platforms.
 
